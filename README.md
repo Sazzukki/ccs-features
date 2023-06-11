@@ -6,8 +6,7 @@
 При наведении на карточку она переворачивается.
 На неоновой кнопке при наведении вопроизводится анимация.
 
-
-https://github.com/Sazzukki/ccs-features/assets/133952979/fa0a57e2-ca74-4e25-8cb3-5499bc4fd2e9
+![Desktop_2023_06_11_-_15_45_15_02](https://github.com/Sazzukki/ccs-features/assets/133952979/4a2e02c6-4514-4c35-b805-c3f08f5efa1b)
 
 
 ## Как скачать
